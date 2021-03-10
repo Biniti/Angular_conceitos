@@ -1,3 +1,10 @@
+
+# Intro about the project 
+
+Esse projeto é apenas para praticar alguns conceitos do [Angular](https://angular.io/) como lazy loading, event property, rotas, navegação entre paginas, entre outros componentes essenciais para uma boa aplicação Angular, além de testar algumas ferramentas de css com o [Semantic Ui](https://semantic-ui.com/)
+
+[Clique aqui](https://comps-beta.vercel.app), para dar uma olhada no site
+
 # Comps
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
